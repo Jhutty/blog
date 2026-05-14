@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hallo, ich bin Suneet, der charmante Problemlöser mit einer Schwäche für KI, Philosophie und Protein-Shakes.
 
 Ich habe Physik an der TU Darmstadt studiert. Meine Masterarbeit war im Bereich der theoretischen Neurowissenschaft und hat erstmals mein Interesse an KI geweckt.
